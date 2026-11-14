@@ -1,0 +1,8 @@
+Aula 2 - Projeto web (PETEI / IIG - UFG)
+
+versao-a-mao/            Gabarito das praticas 05 a 07 (o que a turma digita) - commit 1
+exemplo-versao-copilot/  Um resultado possivel do pedido da Pratica 09 (so o style.css muda) - commit 2
+fundo.jpg                Foto do campus usada no banner: disponibilizar na plataforma para a turma
+                         copiar para a pasta aula-02 (ja esta dentro das duas pastas acima)
+
+Abra o index.html de cada pasta no navegador para comparar.
